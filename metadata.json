@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VEpescados Manager",
+  "description": "A high-performance management application for fish and seafood distributors, featuring real-time inventory tracking, sales recording, and AI-driven stock insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
